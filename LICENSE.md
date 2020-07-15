@@ -34,7 +34,7 @@ It is also recommended to include the below text somewhere in the user interface
 > sublicense [sublicense full name, e.g. Apache License, Version 2.0].  
 > This may be abbreviated as sandia-[sublicense code, e.g. apache-2.0].  
 > You may obtain a copy of the License(s) at  
-> https://github.com/cdanis/sandia-public-license/blob/master/LICENSE.md and  
+> https://github.com/cdanis/sandia-public-license/blob/main/LICENSE.md and  
 > [URL to sublicense, e.g. https://www.apache.org/licenses/LICENSE-2.0.txt]
 
 
