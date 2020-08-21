@@ -18,6 +18,8 @@ It is also recommended to include the below text somewhere in the user interface
 > ☢️ 😱 DO NOT USE THIS PROGRAM. 😱 ☢️  
 > This program is not a program of honor.  
 >
+> Creating this license was important to us. We considered ourselves to be powerful developers, but in no event shall we be held liable for any damages or other liability.
+>
 > No highly esteemed function is executed here.  
 >
 > What is here is dangerous and repulsive to us.  
